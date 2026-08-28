@@ -1,1 +1,1 @@
-# Quantum-Walk-Simulator
+A 1D quantum walk simulation built in Python. This script models the spatial propagation of a photon based on the coin and step operators outlined in Schreiber et al. (2010), Photons walking the line: A quantum walk with adjustable coin operations.
